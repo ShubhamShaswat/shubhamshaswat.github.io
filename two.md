@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title:  Page Two
 ---
 
@@ -9,4 +9,3 @@ title:  Page Two
 Another sample page.
 
 _Add your text here_
-
