@@ -3,7 +3,7 @@ layout: projects
 title:  Projects
 ---
 
-# {{ projects.title }}
+# Projects
 
 
 
