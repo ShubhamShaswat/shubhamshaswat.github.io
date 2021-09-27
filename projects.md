@@ -1,9 +1,9 @@
 ---
-layout: page
+layout: projects
 title:  Projects
 ---
 
-# {{ page.title }}
+# {{ projects.title }}
 
 
 My Projects
