@@ -8,7 +8,7 @@ title:  Projects
 
 
 
-## Face GAN — Machine Learning Project
+## [Face GAN — Machine Learning Project](https://github.com/ShubhamShaswat/FaceGan)
 Trained and Deployed a GAN that learns to generate faces .The dataset used to train the model is CelebA which consists of over 200K of celebrities faces from all over the world. The model was trained on TPU that reduces the training time significantly over GPU.
 https://github.com/ShubhamShaswat/FaceGan
 
