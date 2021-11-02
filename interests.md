@@ -3,7 +3,7 @@ layout: interests
 title:  Projects
 ---
 
-# {{ page.title }}
+# {{ interests.title }}
 
 
 My Hobby and Interests 
