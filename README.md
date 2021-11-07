@@ -4,7 +4,7 @@ This is my Github Page
 
 # Jekyll Resume Theme
 
-Live demo at https://jekyll-theme-minimal-resume.netlify.com/
+Live demo at https://shubhamshaswat.github.io
 
 
 # Credits
